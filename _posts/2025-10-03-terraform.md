@@ -115,4 +115,4 @@ terraform destroy # Optional: clean up resources
 
 ## Terraform workflow
 
-![Terraform Workflow](/assets/images/terraform-workflow.png)
+![Terraform Workflow](/neoopsverse/assets/images/terraform-workflow.png)
