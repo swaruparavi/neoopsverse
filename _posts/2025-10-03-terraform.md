@@ -93,9 +93,9 @@ resource "aws_security_group" "allow_ssh" {
 }
 ```
 ```mermaid
-graph TD
-VPC[Main VPC 10.0.0.0/16] --> Subnet[Subnet 10.0.1.0/24]
-Subnet --> SG[Security Group: Allow SSH]
+graph TD;
+VPC[Main VPC 10.0.0.0/16] --> Subnet[Subnet 10.0.1.0/24];
+Subnet --> SG[Security Group: Allow SSH];
 ```
 
 ## Terraform Commands
