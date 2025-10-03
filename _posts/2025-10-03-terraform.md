@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Experimenting with Infrastructure as Code (IaC) Using Terraform"
-date: 2025-10-04
+date: 2025-10-03
 categories: [DevOps, Terraform, IaC, Tutorial]
 tags: [terraform, IaC, infrastructure, automation, beginner]
 author: Swarupa R

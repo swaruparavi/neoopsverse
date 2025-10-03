@@ -1,7 +1,3 @@
 title: "Neo Ops Verse"
 description: "DevOps learning journey, tutorials, and experiments"
 theme: minima
-
-plugins:
-  - jekyll-mermaid
-  - jekyll-feed
