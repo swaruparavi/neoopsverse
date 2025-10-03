@@ -107,11 +107,11 @@ terraform destroy # Optional: clean up resources
 ```
 
 ## Lab Tips:
-Always run terraform plan to preview changes before applying.
+ - Always run terraform plan to preview changes before applying.
 
-Use terraform destroy to clean up resources and avoid extra costs.
+ - Use terraform destroy to clean up resources and avoid extra costs.
 
-Always tag your resources for better organization. 
+ - Always tag your resources for better organization. 
 
 ## Terraform workflow
 
